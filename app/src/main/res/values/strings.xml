@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ParcialAndroid</string>
+    <string-array name="grupo">
+        <item>Familia</item>
+        <item>Trabajo</item>
+        <item>Amigo</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>

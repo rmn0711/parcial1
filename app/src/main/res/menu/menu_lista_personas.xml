@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:All4One="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mm"
+    android:icon="@drawable/ic_more"
+    android:title="more"
+    All4One:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/menu_ordenar_nom"
+                android:title="Ordenar por nombre" />
+
+            <item
+                android:id="@+id/menu_ordenar_grupo"
+                android:title="Ordenar por grupo" />
+
+            <item
+                android:id="@+id/menu_invertir"
+                android:title="Invertir lista" />
+
+            <item
+                android:id="@+id/menu_eliminar"
+                android:title="Eliminar contactos" />
+    </menu>
+    </item>
+    </menu>
